@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import '../Styles/Home.css';
-import Nav from '../Components/Navigation'
+import ourNav from '../Components/Navigation'
 
 class Home extends Component {
   render() {
     return (
     	<div>
-      <Nav></Nav>
+      <ourNav></ourNav>
       <div className="Home">
         <header className="Home-header">
           <p>

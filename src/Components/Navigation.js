@@ -23,4 +23,4 @@ class Navigation extends React.Component {
 			)
 	}
 }
-export default Nav;
+export default ourNav;
